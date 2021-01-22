@@ -57,6 +57,7 @@ Adam Blaylock
 - [Bukola Kehinde](https://github.com/buquio)
 - [Arjun Sanjeev](https://github.com/Arjun-sanjeev)
 - [Nandini Proothi](https://github.com/nandiniproothi)
+- [Ganeshan Sureendhar] (https://github.com/Sureen99)
 - [Chris Tapia](https://github.com/tapz1)
 - [Aruneema Deshmukh](https://github.com/AruneemaXD)
 - [Alex Li] (https://github.com/1liale)
